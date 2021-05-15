@@ -72,3 +72,4 @@ service-worker: true
     # },{
 #    }
 #]
+theme: jekyll-theme-slate
